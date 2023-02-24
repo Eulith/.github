@@ -1,7 +1,7 @@
 # Welcome To Eulith
 We enable sophisticated funds to implement systematic DeFi strategies safely & reliably. 
 
-## With a few lines of Python, you can...
+## ✍️ With a few lines of Python, you can...
 ⦿ **Open leveraged short (on-chain)** - Ask us about "The Honest Short"
 
 ⦿ **Arbitrage without collateral requirements** (flash loans, atomic transactions)
@@ -23,3 +23,6 @@ We enable sophisticated funds to implement systematic DeFi strategies safely & r
 ⦿ **Screen for AML/Middleman/FatFinger risks** - Do a full simulation of your tx before you sign and send. Set policies to approve or deny based on dozens of risk parameters
 
 ⦿ **Trade on your chain** - (ETH, AVAX, POLY, OPT, ARB, BSC). We can add any EVM based network in 20 minutes.
+
+# 
+# 👇👇 See pinned repos below for code & functionality examples 👇👇
