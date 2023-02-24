@@ -25,4 +25,4 @@ We enable sophisticated funds to implement systematic DeFi strategies safely & r
 ⦿ **Trade on your chain** - (ETH, AVAX, POLY, OPT, ARB, BSC). We can add any EVM based network in 20 minutes.
 
 # 
-# 👇👇 See pinned repos below for code & functionality examples 👇👇
+# 👇 See pinned repos below for code & functionality examples 👇
