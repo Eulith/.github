@@ -1,6 +1,8 @@
 # Welcome To Eulith
 We enable sophisticated funds to implement systematic DeFi strategies safely & reliably. 
 
+### We're in private beta, request access @ https://docs.eulith.com/public/sign-ups
+
 ## ✍️ With a few lines of Python, you can...
 ⦿ **Open leveraged short (on-chain)** - Ask us about "The Honest Short"
 
