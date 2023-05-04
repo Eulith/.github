@@ -1,4 +1,4 @@
-# Welcome To Eulith
+# The Best Python Tooling in DeFi
 We enable sophisticated funds to implement systematic DeFi strategies safely & reliably. 
 
 ### We're in private beta, request access @ https://docs.eulith.com/public/sign-ups
