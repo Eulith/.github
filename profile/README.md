@@ -20,7 +20,7 @@ We enable sophisticated funds to implement systematic DeFi strategies safely & r
 
 ⦿ **Avoid MEV risks** - Easily manage MEV tradeoffs with optional private mempool routing, atomic transaction units, and speedy transaction routing.
 
-⦿ **Sign with your custody** - AWS KMS, HSM, Fireblocks, and GnosisSafe. Signing happens client side. We never see or have access to your keys.
+⦿ **Sign with your custody** - AWS KMS, HSM, Ledger, Fireblocks, and Safe. Signing happens client side. We never see or have access to your keys.
 
 ⦿ **Customize to your trade** - It takes 12 seconds to add a token to your trading scope, DIY, no need to call us.
 
