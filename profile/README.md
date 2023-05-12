@@ -4,6 +4,10 @@ We enable sophisticated funds to implement systematic DeFi strategies safely & r
 ### We're in private beta, request access @ https://docs.eulith.com/public/sign-ups
 
 ## ✍️ With a few lines of Python, you can...
+⦿ **Run a secure automated strategy** with Eulith DeFi Armor (Safe Module w/ policy enforcement)
+
+⦿ **Unleash full protocol power** - Quoting & deep integrations on Uniswap, Pendle, Aave, GMX, and more
+
 ⦿ **Open leveraged short (on-chain)** - Ask us about "The Honest Short"
 
 ⦿ **Arbitrage without collateral requirements** (flash loans, atomic transactions)
@@ -19,8 +23,6 @@ We enable sophisticated funds to implement systematic DeFi strategies safely & r
 ⦿ **Sign with your custody** - AWS KMS, HSM, Fireblocks, and GnosisSafe. Signing happens client side. We never see or have access to your keys.
 
 ⦿ **Customize to your trade** - It takes 12 seconds to add a token to your trading scope, DIY, no need to call us.
-
-⦿ **Unleash full protocol power** - Get quotes for Uniswap pool without the tick math, execute flash loans, stream prices, and more
 
 ⦿ **Screen for AML/Middleman/FatFinger risks** - Do a full simulation of your tx before you sign and send. Set policies to approve or deny based on dozens of risk parameters
 
