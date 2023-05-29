@@ -3,7 +3,7 @@ We enable sophisticated funds to implement systematic DeFi strategies safely & r
 
 ### We're in private beta, request access @ https://docs.eulith.com/public/sign-ups
 
-## ✍️ With a few lines of Python, you can...
+## ✍️ With a few lines of Python, Typescript, or Rust you can...
 ⦿ **Run a secure automated strategy** with Eulith DeFi Armor (Safe Module w/ policy enforcement)
 
 ⦿ **Unleash full protocol power** - Quoting & deep integrations on Uniswap, Pendle, Aave, GMX, and more
